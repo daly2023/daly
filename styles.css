@@ -1,0 +1,25 @@
+.topnav  { 
+    display: flex;
+    border: 2px solid black;
+   
+   }
+.ul{
+    display: flex;
+        color:black;
+        }
+.ul li{
+justify-content: space-between;
+font-size: 150%;
+
+}
+            
+.ul li a{
+    text-decoration: none;
+    cursor: pointer;
+    color:navy;
+    
+   }
+.container {
+    display:flex;
+    margin-left: 20%;
+}
